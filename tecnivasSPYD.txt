@@ -1,0 +1,27 @@
+acta de reunion
+documento que registra los detalles y decciones importantes tomadas en una reuinion
+1. infomeacion basica
+2.listado de personas que asistieron
+3.
+4.los registros de los punbtos tocados
+5.decisiones y acciones tomadas
+6.
+
+se usa en la etapa de reconocieminto y rlevamiento
+
+
+diagrama de contexto
+
+medio basico para definir una entidad basandose en sus limites
+froma basica de ver como se relacioonan los entes dentro de una organizacion
+
+diagram de contexto sirve para definir limites dentro de una organizacion, define que entra y que sale 
+delimitar algo, identificando que entra y que sale
+se usa en la etapa de reconocimiento y relevaminto
+herraminetoa que permite recolectar y documentar info
+
+
+diagrams de murphy
+
+
+diagrams de felchas, -
